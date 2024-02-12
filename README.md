@@ -1,8 +1,9 @@
-<p> In this I have created 2 html files and 1 css file for my portfolio than I installed flask in my system and written a code for flask and connected all my files in that code. All the html files are present in the templates folder and rest all files such as images and css files are present in the static folder. After that I have successfully executed my program and all worked well. </p>
-
 
 <h1 align="center">Hi 👋, I'm Kunj Rathi</h1>
 <h3 align="center">A passionate blockchain and full stack web developer from India.</h3>
+
+<p> In this I have created 2 html files and 1 css file for my portfolio than I installed flask in my system and written a code for flask and connected all my files in that code. All the html files are present in the templates folder and rest all files such as images and css files are present in the static folder. After that I have successfully executed my program and all worked well. </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kunjrathi2004&label=Profile%20views&color=0e75b6&style=flat" alt="kunjrathi2004" /> </p>
 
