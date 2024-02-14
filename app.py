@@ -17,4 +17,4 @@ def about_css():
     return send_from_directory(os.path.join(app.root_path, 'static'),'about.css')
 
 if __name__ == "__main__":
-    app.run(debug=True, port=7000)
+    app.run(debug=True)
